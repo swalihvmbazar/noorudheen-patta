@@ -20,7 +20,7 @@ export default function Home() {
       {/* Navigation */}
       <nav className="navbar">
         <div className="nav-container">
-          <div className="nav-logo">NM</div>
+          <div className="nav-logo">Noorpatta</div>
           <button 
             className="menu-toggle"
             onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
@@ -264,7 +264,7 @@ export default function Home() {
 
           <h3>Thesis</h3>
           <div className="publication-item">
-            <p><strong>Islamic Law in the Indian Ocean World:</strong> A Study of Zayn al-Dīn al-Makhdūm's al-Ajwiba al-ʿajība ʿan al-asʾilat al-gharība. Hamad Bin Khalifa University (Qatar), ProQuest Dissertations & Theses, 2021. <a href="#">Link</a></p>
+            <p><strong>Islamic Law in the Indian Ocean World:</strong> A Study of Zayn al-Dīn al-Makhdūm's al-Ajwiba al-ʿajība ʿan al-asʾilat al-gharība. Hamad Bin Khalifa University (Qatar), ProQuest Dissertations & Theses, 2021. <a href="https://www.proquest.com/openview/d0b48bdd0176f615d9eef3a565383f22/1.pdf?pq-origsite=gscholar&cbl=2026366&diss=y" target='_blank' rel="noopener noreferrer">Link</a></p>
           </div>
           <div className="publication-item">
             <p><strong>Ibn Khaldun and the Science of Civilization:</strong> Accounting the Cultural Crisis in the Muslim World through the Muqaddima. Postgraduate Department of Islamic Studies, SAFI Institute of Advanced Study (SIAS), University of Calicut, 2018 (Unpublished).</p>
@@ -272,33 +272,33 @@ export default function Home() {
 
           <h3>Academic Papers</h3>
           <div className="publication-item">
-            <p><strong>"Islamic Law in the Maritime World: Malabar and the (Re)formation of Legal Circularities Across the Indian Ocean,"</strong> Astrolabe: CIS Student Research Journal, Issue 4, Vol. 2022, pp. 119–131. <a href="#">Link</a></p>
+            <p><strong>"Islamic Law in the Maritime World: Malabar and the (Re)formation of Legal Circularities Across the Indian Ocean,"</strong> Astrolabe: CIS Student Research Journal, Issue 4, Vol. 2022, pp. 119–131. <a href="https://www.hbku.edu.qa/sites/default/files/islamiclawmaritime.pdf" target='_blank' rel="noopener noreferrer">Link</a></p>
           </div>
 
           <h3>Essays</h3>
           <div className="publication-item">
-            <p><strong>"Kayalpattinam – The 'Cairo' of the East,"</strong> Traversing Tradition, 29 Oct 2025. <a href="#">Link</a></p>
+            <p><strong>"Kayalpattinam – The 'Cairo' of the East,"</strong> Traversing Tradition, 29 Oct 2025. <a href="https://traversingtradition.com/2025/10/29/kayalpattinam-the-cairo-of-the-east/" target='_blank' rel="noopener noreferrer">Link</a></p>
           </div>
           <div className="publication-item">
-            <p><strong>"Development of Islamic Scholarship in the 16th Century: Shaykh Zayn al-Dīn Makhdūm and the Indian Ocean Network,"</strong> Traversing Tradition, 30 Sep 2025. <a href="#">Link</a></p>
+            <p><strong>"Development of Islamic Scholarship in the 16th Century: Shaykh Zayn al-Dīn Makhdūm and the Indian Ocean Network,"</strong> Traversing Tradition, 30 Sep 2025. <a href="https://traversingtradition.com/2025/09/29/development-of-islamic-scholarship-in-the-16th-century-shaykh-zayn-al-din-makhdum-and-indian-ocean-network/" target='_blank' rel="noopener noreferrer">Link</a></p>
           </div>
           <div className="publication-item">
-            <p><strong>"The Quran in the South Indian Linguistic World: In Vernacular Literature, Local Teachings, and Customary Practices,"</strong> Traversing Tradition, 18 Sep 2025. <a href="#">Link</a></p>
+            <p><strong>"The Quran in the South Indian Linguistic World: In Vernacular Literature, Local Teachings, and Customary Practices,"</strong> Traversing Tradition, 18 Sep 2025. <a href="https://traversingtradition.com/2025/09/17/the-quran-in-the-south-indian-linguistic-world/" target='_blank' rel="noopener noreferrer">Link</a></p>
           </div>
           <div className="publication-item">
-            <p><strong>"'Ulama, Fatwas, and the Struggle for Islamic Legitimacy in Colonial India,"</strong> Traversing Tradition, 16 Jun 2025. <a href="#">Link</a></p>
+            <p><strong>"'Ulama, Fatwas, and the Struggle for Islamic Legitimacy in Colonial India,"</strong> Traversing Tradition, 16 Jun 2025. <a href="https://traversingtradition.com/2025/06/16/ulama-fatwas-and-the-struggle-for-islamic-legitimacy-in-colonial-india/" target='_blank' rel="noopener noreferrer">Link</a></p>
           </div>
           <div className="publication-item">
             <p><strong>Masjids in Malaibar,</strong> Coffee Table Book — Project Lead & Content Writer, Malaibar Press, 2023.</p>
           </div>
           <div className="publication-item">
-            <p><strong>Istanbul Letters,</strong> Travelogue Series (10 chapters), Risala Update, 2023. <a href="#">Link</a></p>
+            <p><strong>Istanbul Letters,</strong> Travelogue Series (10 chapters), Risala Update, 2023. <a href="https://risalaupdate.com/stories/tag/istanbul-letters" target='_blank' rel="noopener noreferrer">Link</a></p>
           </div>
           <div className="publication-item">
-            <p><strong>"Islamic Tradition and Reform: Sir Sayed Ahmed Khan's Vision in Post-Colonial Education,"</strong> Centre for Islamic Pluralism, 30 Dec 2015. <a href="#">Link</a></p>
+            <p><strong>"Islamic Tradition and Reform: Sir Sayed Ahmed Khan's Vision in Post-Colonial Education,"</strong> Centre for Islamic Pluralism, 30 Dec 2015. <a href="http://www.islamicpluralism.org/2539/islamic-tradition-and-reform" target='_blank' rel="noopener noreferrer">Link</a></p>
           </div>
           <div className="publication-item">
-            <p><strong>"Origin and Evolution of Human Society in Ibn Khaldun's Philosophy of Human Society,"</strong> Centre for Islamic Pluralism, 11 Mar 2015. <a href="#">Link</a></p>
+            <p><strong>"Origin and Evolution of Human Society in Ibn Khaldun's Philosophy of Human Society,"</strong> Centre for Islamic Pluralism, 11 Mar 2015. <a href="http://www.islamicpluralism.org/2469/origin-and-evolution-of-human-society-in-ibn">Link</a></p>
           </div>
         </section>
 
